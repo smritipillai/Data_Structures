@@ -6,8 +6,8 @@ class Node{
   int data;
   public Node(int data){
     //initialising entered values
-    this.data=data;
-    this.next=null;
+    this.data = data;
+    this.next = null;
   }
 }
   class LinkedList{
